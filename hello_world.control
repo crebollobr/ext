@@ -1,0 +1,4 @@
+comment = 'Extensão simples Hello World'
+default_version = '1.0'
+relocatable = false
+
