@@ -6,7 +6,7 @@
 --    END IF;
 -- END $$;
 
-CREATE IF NOT EXISTS SCHEMA schema_teste;
+CREATE SCHEMA IF NOT EXISTS schema_teste;
 
 CREATE TABLE schema_teste.saudacoes (
     id serial PRIMARY KEY,
